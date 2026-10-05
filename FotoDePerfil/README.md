@@ -1,22 +1,16 @@
-# FotoDePerfil
-
-<!-- estrutura-guia:inicio -->
-## Finalidade e estado da pasta
+# 🌎 FotoDePerfil
 
 Versões da identidade visual e da imagem de perfil da organização.
 
-### Estado atual
+## Arquivos desta pasta
 
-Esta pasta contém arquivos do projeto ou materiais nas subpastas abaixo.
+| Arquivo | Finalidade |
+| :--- | :--- |
+| [V.0.1.png](V.0.1.png) | Imagem ou proposta visual: V.0.1.png. |
+| [V.1.0.jpeg](V.1.0.jpeg) | Imagem ou proposta visual: V.1.0.jpeg. |
+| [V.2.0.png](V.2.0.png) | Imagem ou proposta visual: V.2.0.png. |
+| [V.Final.png](V.Final.png) | Imagem ou proposta visual: V.Final.png. |
 
-### Conteúdo
+---
 
-| Item | Descrição |
-| --- | --- |
-| [V.0.1.png](V.0.1.png) | Arquivo existente relacionado à finalidade desta pasta. |
-| [V.1.0.jpeg](V.1.0.jpeg) | Arquivo existente relacionado à finalidade desta pasta. |
-| [V.2.0.png](V.2.0.png) | Arquivo existente relacionado à finalidade desta pasta. |
-| [V.Final.png](V.Final.png) | Arquivo existente relacionado à finalidade desta pasta. |
-
-[Voltar ao README do projeto](../README.md).
-<!-- estrutura-guia:fim -->
+[← Visão geral do projeto](../README.md)

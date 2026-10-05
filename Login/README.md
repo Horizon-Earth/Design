@@ -1,21 +1,15 @@
-# Login
-
-<!-- estrutura-guia:inicio -->
-## Finalidade e estado da pasta
+# 🔐 Login
 
 Propostas visuais e versões de design da tela de login.
 
-### Estado atual
+## Arquivos desta pasta
 
-Esta pasta contém arquivos do projeto ou materiais nas subpastas abaixo.
+| Arquivo | Finalidade |
+| :--- | :--- |
+| [V.1.0.png](V.1.0.png) | Imagem ou proposta visual: V.1.0.png. |
+| [V.2.0.png](V.2.0.png) | Imagem ou proposta visual: V.2.0.png. |
+| [V.3.0.png](V.3.0.png) | Imagem ou proposta visual: V.3.0.png. |
 
-### Conteúdo
+---
 
-| Item | Descrição |
-| --- | --- |
-| [V.1.0.png](V.1.0.png) | Arquivo existente relacionado à finalidade desta pasta. |
-| [V.2.0.png](V.2.0.png) | Arquivo existente relacionado à finalidade desta pasta. |
-| [V.3.0.png](V.3.0.png) | Arquivo existente relacionado à finalidade desta pasta. |
-
-[Voltar ao README do projeto](../README.md).
-<!-- estrutura-guia:fim -->
+[← Visão geral do projeto](../README.md)

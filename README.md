@@ -39,15 +39,21 @@ Crie uma branch para a alteração, faça commits claros e abra um pull request.
 
 Código e documentação próprios da Horizon Earth distribuídos sob a [licença MIT](LICENSE). Materiais externos, imagens, texturas e dados de APIs mantêm suas licenças e atribuições originais.
 
+---
+
 <!-- estrutura-guia:inicio -->
-## 📂 Estrutura de arquivos
+## 🗂️ Organização do repositório
 
-Os caminhos abaixo descrevem as pastas deste repositório. Cada pasta possui um README com finalidade e estado do conteúdo. Por ser um repositório de design, planejamento, demonstração ou perfil, a estrutura foi adaptada à sua finalidade; pastas sem aplicação ao conteúdo foram omitidas conforme permitido pelo guia.
+As pastas abaixo separam as responsabilidades do projeto. Abra uma delas para ver seus arquivos, suas subpastas e o estado do conteúdo.
 
-| Pasta | Finalidade |
-| --- | --- |
-| `FotoDePerfil/` | Versões da identidade visual e da imagem de perfil da organização. |
-| `Login/` | Propostas visuais e versões de design da tela de login. |
+| Pasta | O que você encontra |
+| :--- | :--- |
+| 🌎 [FotoDePerfil/](FotoDePerfil/README.md) | Versões da identidade visual e da imagem de perfil da organização. |
+| 🔐 [Login/](Login/README.md) | Propostas visuais e versões de design da tela de login. |
 
-Arquivos da raiz: `LICENSE`, `README.md`.
+### Arquivos da raiz
+
+| Arquivo | Finalidade |
+| :--- | :--- |
+| [LICENSE](LICENSE) | Condições de uso e distribuição sob a licença MIT. |
 <!-- estrutura-guia:fim -->
